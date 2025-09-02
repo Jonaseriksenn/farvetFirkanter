@@ -1,5 +1,3 @@
-boolean mouseHover=true;
-
 void setup(){
   size(800,800);
   
