@@ -1,8 +1,9 @@
 void setup(){
-  size(800,800);
+  size(400,400);
   
 }
 void draw(){
+  
   background(255);
   
   fill(255,3,3);
